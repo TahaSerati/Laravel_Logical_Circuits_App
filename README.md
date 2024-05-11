@@ -1,3 +1,15 @@
+## About This App 
+there is some sections : 
+- base Converter
+- Decimal to BCD Converter
+- Decimal to makeExccess-3
+- Gray to Decimal Converter
+- Decimal to Gray Converter
+- karnaugh-map (3, 4 and 5 variables)
+- addition & subtraction
+- also Laravel authentication section is provided in this app. 
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -69,13 +81,3 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 what is this app about ? 
 this is a simple web app that provide doing logical operation around logical cirsuits.
 
-## About This App 
-there is some sections : 
-_base Converter
-_Decimal to BCD Converter
-_Decimal to makeExccess-3
-_Gray to Decimal Converter
-_Decimal to Gray Converter
-_karnaugh-map (3, 4 and 5 variables)
-_addition & subtraction
-_also Laravel authentication section is provided in this app. 
